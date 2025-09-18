@@ -1,0 +1,14 @@
+# Ignore the saved models folder
+models/
+
+# Ignore Python and Jupyter cache files
+__pycache__/
+.ipynb_checkpoints/
+
+# Ignore generated data files
+*.csv
+
+venv/
+backend/outbreak_api/credentials.json
+*.pyc
+backend/outbreak_api/config.py
